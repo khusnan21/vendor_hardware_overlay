@@ -159,6 +159,7 @@
     <bool name="config_wifi_dual_band_support">true</bool>
     <bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
     <bool name="skip_restoring_network_selection">true</bool>
+    <bool name="config_supportDoubleTapWake">true</bool>
 
     <!-- fractions.xml files -->
     <fraction name="config_autoBrightnessAdjustmentMaxGamma">300.0%</fraction>
